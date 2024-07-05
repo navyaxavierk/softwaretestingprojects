@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T15:46:22 IST" name="Default suite" finished-at="2024-07-05T15:46:49 IST" duration-ms="27515">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T15:46:22 IST" name="Default test" finished-at="2024-07-05T15:46:49 IST" duration-ms="27515">
+      <class name="packagetest.Demotest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:packagetest.Demotest@3646a422]" started-at="2024-07-05T15:46:22 IST" name="setup" finished-at="2024-07-05T15:46:36 IST" duration-ms="14122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifiyLoginWithValidCred()[pri:0, instance:packagetest.Demotest@3646a422]" started-at="2024-07-05T15:46:36 IST" name="verifiyLoginWithValidCred" finished-at="2024-07-05T15:46:49 IST" duration-ms="13232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiyLoginWithValidCred -->
+      </class> <!-- packagetest.Demotest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
